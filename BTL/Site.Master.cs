@@ -19,6 +19,7 @@ namespace BTL
         {
             if ((bool)Session["login"]==true)
             {
+		//final_test
                 //label.Text = "Chào mừng " + Session["nguoidung"] + " đã đăng nhập " + DateTime.Now;
                 label.Text = "Chào mừng " + Session["nguoidung"];
             }

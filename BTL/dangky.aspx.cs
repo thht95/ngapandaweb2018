@@ -16,6 +16,7 @@ namespace BTL
 
         protected void btndk_Click(object sender, EventArgs e)
         {
+	    // final_test
             if (txtPassXN.Text != txtPass.Text)
             {
                 Response.Write("<script>confirm('Mật Khẩu nhập lại Không đúng');" +
