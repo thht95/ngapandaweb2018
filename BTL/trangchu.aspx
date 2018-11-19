@@ -44,7 +44,7 @@
                             <b></b>
                             <span class="section-title-main" style="font-size:135%;">SẢN PHẨM MỚI</span><b></b>
                         </h3>
-						<div class="col-sm-3 col-xs-6">
+						<div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -64,7 +64,7 @@
 								</div>
 							</div>
 						</div>
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -84,7 +84,7 @@
 								</div>
 							</div>
 						</div>	
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -104,7 +104,7 @@
 								</div>
 							</div>
 						</div>	
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -124,7 +124,7 @@
 								</div>
 							</div>
 						</div>	
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -144,7 +144,7 @@
 								</div>
 							</div>
 						</div>
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -164,7 +164,7 @@
 								</div>
 							</div>
 						</div>
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -184,7 +184,7 @@
 								</div>
 							</div>
 						</div>
-                        <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-4 col-xs-6">
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
@@ -210,7 +210,7 @@
                             <b></b>
                             <span class="section-title-main" style="font-size:135%;">SẢN PHẨM BÁN CHẠY</span><b></b>
                         </h3>
-						    <div class="col-sm-3 col-xs-6">
+						    <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -230,7 +230,7 @@
 								    </div>
 							    </div>
 						    </div>
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -250,7 +250,7 @@
 								    </div>
 							    </div>
 						    </div>	
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -270,7 +270,7 @@
 								    </div>
 							    </div>
 						    </div>	
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -291,7 +291,7 @@
 								    </div>
 							    </div>
 						    </div>	
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -311,7 +311,7 @@
 								    </div>
 							    </div>
 						    </div>
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -331,7 +331,7 @@
 								    </div>
 							    </div>
 						    </div>
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -351,7 +351,7 @@
 								    </div>
 							    </div>
 						    </div>
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-4 col-xs-6">
 							    <div class="product-image-wrapper">
 								    <div class="single-products">
 									    <div class="productinfo text-center">
@@ -382,14 +382,14 @@
                     </h3>
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-3">
+                            <div class="col-sm-4">
                                 <img src="Content/img/ThongTin/tt1.jpg">
                                 <h3><a href="#">Cách chọn cặp da nam phù hợp nhu cầu và từng hoàn cảnh</a></h3>
                                 <div class="description">
                                     <p>Bài viết tổng hợp các thông tin cần thiết về cách chọn cặp da nam cho các chàng đang có ý định sắm cho mình một chiếc cặp da.</p>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-4">
                                 <img src="Content/img/ThongTin/tt2.jpg">
                                 <h3><a href="#">Mẹo chọn túi đeo chéo xu thế 2017</a></h3>
                                 <div class="description">
@@ -397,7 +397,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-4">
                                 <img src="Content/img/ThongTin/tt3.jpg">
                                 <h3><a href="#">Cách lựa chọn túi da thật sang trọng, đẹp và phù hợp</a></h3>
                                 <div class="description">
@@ -406,7 +406,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-4">
                                 <img src="Content/img/ThongTin/tt4.jpg">
                                 <h3><a href="#">Top 3 tiêu chí bạn phải biết để chọn túi xách da nam “chuẩn men”</a></h3>
                                 <div class="description">
