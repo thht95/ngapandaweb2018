@@ -27,6 +27,10 @@ namespace BTL
             {
                 label.Text = "";
             }
+
+            List<thongtin> tt = (List<thongtin>)Session["carts"];
+            if (tt != null)
+                Giohang.Text = tt.Count + " sản phẩm";
         }
         protected void Page_Init(object sender, EventArgs e)
         {

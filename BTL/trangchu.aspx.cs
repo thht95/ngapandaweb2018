@@ -30,7 +30,7 @@ namespace BTL
                 }
             }
             Session["carts"] = carts;
-            Response.Write("<script> alert('Thêm vào giỏ hàng thành công!'); </script>");
+            Response.Write("<script> alert('Thêm vào giỏ hàng thành công!'); window.location.href = '/trangchu.aspx' </script>");
         }
     }
 }
